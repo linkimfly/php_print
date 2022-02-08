@@ -10,7 +10,9 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "php": ">=5.3.10"
+    },
     "autoload": {
         "psr-4": {
             "linkimfly\\php_print\\": "src/"
