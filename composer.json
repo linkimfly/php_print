@@ -12,7 +12,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.10",
-        "symfony/var-dumper" : "^5.4"
+        "symfony/var-dumper" : "4.4.33"
     },
     "autoload": {
         "psr-4": {
